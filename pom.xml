@@ -123,6 +123,13 @@
             <scope>runtime</scope>
         </dependency>
 
+<!--        dependencia postgressql-->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
     </dependencies>
 
     <build>
